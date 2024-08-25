@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/maksim/Documents/Work/Code/Cpp/Engine/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-gcc-13 -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLFW/include/GLFW -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLAD/include -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glad/KHR -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures/3d -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glm -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/glad.dir/libs/GLAD/src/glad.c.o -c /Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLAD/src/glad.c",
+  "file": "/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLAD/src/glad.c",
+  "output": "CMakeFiles/glad.dir/libs/GLAD/src/glad.c.o"
+},
+{
+  "directory": "/Users/maksim/Documents/Work/Code/Cpp/Engine/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLFW/include/GLFW -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glad/KHR -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures/3d -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glm -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLFW/include -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLAD/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/Engine.dir/src/graphics/EngineLauncher.cpp.o -c /Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/EngineLauncher.cpp",
+  "file": "/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/EngineLauncher.cpp",
+  "output": "CMakeFiles/Engine.dir/src/graphics/EngineLauncher.cpp.o"
+},
+{
+  "directory": "/Users/maksim/Documents/Work/Code/Cpp/Engine/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLFW/include/GLFW -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glad/KHR -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures/3d -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glm -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLFW/include -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLAD/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/Engine.dir/src/graphics/figures/rectangle.cpp.o -c /Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures/rectangle.cpp",
+  "file": "/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures/rectangle.cpp",
+  "output": "CMakeFiles/Engine.dir/src/graphics/figures/rectangle.cpp.o"
+},
+{
+  "directory": "/Users/maksim/Documents/Work/Code/Cpp/Engine/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLFW/include/GLFW -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glad/KHR -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures/3d -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics/figures -I/Users/maksim/Documents/Work/Code/Cpp/Engine/src/graphics -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/glm -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLFW/include -I/Users/maksim/Documents/Work/Code/Cpp/Engine/libs/GLAD/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -o CMakeFiles/Engine.dir/src/main.cpp.o -c /Users/maksim/Documents/Work/Code/Cpp/Engine/src/main.cpp",
+  "file": "/Users/maksim/Documents/Work/Code/Cpp/Engine/src/main.cpp",
+  "output": "CMakeFiles/Engine.dir/src/main.cpp.o"
+}
+]

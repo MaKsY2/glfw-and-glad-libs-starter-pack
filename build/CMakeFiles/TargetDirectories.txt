@@ -1,0 +1,4 @@
+/Users/maksim/Documents/Work/Code/Cpp/Engine/build/CMakeFiles/glad.dir
+/Users/maksim/Documents/Work/Code/Cpp/Engine/build/CMakeFiles/Engine.dir
+/Users/maksim/Documents/Work/Code/Cpp/Engine/build/CMakeFiles/edit_cache.dir
+/Users/maksim/Documents/Work/Code/Cpp/Engine/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+{
+  "files.associations": {
+    "*.tex": "latex",
+    "ostream": "cpp",
+    "__locale": "cpp",
+    "optional": "cpp",
+    "__hash_table": "cpp",
+    "__tuple": "cpp",
+    "array": "cpp",
+    "charconv": "cpp",
+    "chrono": "cpp",
+    "compare": "cpp",
+    "cstddef": "cpp",
+    "type_traits": "cpp",
+    "filesystem": "cpp",
+    "limits": "cpp",
+    "random": "cpp",
+    "ratio": "cpp",
+    "tuple": "cpp",
+    "variant": "cpp",
+    "complex": "cpp",
+    "functional": "cpp",
+    "utility": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

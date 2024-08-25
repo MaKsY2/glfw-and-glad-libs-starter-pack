@@ -1,0 +1,7 @@
+# ninja log v5
+1	85	1702169239536078826	CMakeFiles/Engine.dir/src/graphics/figures/rectangle.cpp.o	887f41b176388e65
+1	540	1702169239990809627	CMakeFiles/Engine.dir/src/main.cpp.o	2fc63c2f285574ef
+1	218	1702169239668715433	CMakeFiles/glad.dir/libs/GLAD/src/glad.c.o	577b97bfe438403f
+1	273	1702169239723137230	CMakeFiles/Engine.dir/src/graphics/EngineLauncher.cpp.o	aec6dea7286c27ed
+219	1290	1702169240742564000	libglad.a	b57a816937b4bb57
+1290	1509	1702169240959569183	Engine	a69af672e3747ade
